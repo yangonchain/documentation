@@ -1,8 +1,8 @@
 
 
-本体开发工具集提供了多样化的 dApp 开发工具，支持多种编程语言，包含详细的指导文档和开发步骤，覆盖了从开发到上线的绝大部分需求。
+本体开发工具集提供了多样化的 DAPP 开发工具，已经能够支持多种编程语言，并为各工具提供了详细的指导文档和开发步骤，覆盖了从开发到上线的绝大部分需求，为使用者带来便捷。
 
-目前已开发完成以下工具，还有许多工具正在开发中。
+目前已开发完成的工具如下，还有许多工具正在开发中。
 
 * [SmartX](https://smartx.ont.io/#/) - 一站式智能合约 IDE，支持编译、部署、测试、Debug。
 * [VSCode 插件](https://dev-docs.ont.io/#/docs-cn/Punica/sc-extension) - 智能合约开发。
@@ -15,7 +15,7 @@
 * [Sign-Server](https://dev-docs.ont.io/#/docs-cn/sigsvr/00-overview) - 提供帐户管理和安全签名消息的后台服务。
 * [Explorer API](https://dev-docs.ont.io/#/docs-cn/explorer/overview) - [Ontology 区块链浏览器](https://explorer.ont.io) 
 
-工具产品为开发者提供了便利，降低了学习和开发成本。
+工具产品为开发者提供了便利，提高了学习效率，降低了开发成本。
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ontio-community/bounty-program-report/master/image/toolkits.png" height="100%" width="100%"><br><br>
